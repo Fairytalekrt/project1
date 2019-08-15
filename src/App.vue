@@ -1,10 +1,10 @@
 <template>
-  <div id="app">
-    <router-view/>
-  </div>
+    <div id="app">
+        <router-view/>
+    </div>
 </template>
 
 <style>
-  @import "./assets/css/main.css";
-  @import "./assets/css/color-dark.css"
+    @import "./assets/css/main.css";
+    @import "./assets/css/color-dark.css";
 </style>

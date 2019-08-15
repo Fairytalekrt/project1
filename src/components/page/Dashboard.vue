@@ -146,23 +146,23 @@
                     },
                     {
                         name: '2018/09/06',
-                        value: 1139
+                        value: 10
                     },
                     {
                         name: '2018/09/07',
-                        value: 816
+                        value: 89
                     },
                     {
                         name: '2018/09/08',
-                        value: 327
+                        value: 123
                     },
                     {
                         name: '2018/09/09',
-                        value: 228
+                        value: 322
                     },
                     {
-                        name: '2018/09/10',
-                        value: 1065
+                        name: '2019/09/15',
+                        value: 233
                     }
                 ],
                 options: {
